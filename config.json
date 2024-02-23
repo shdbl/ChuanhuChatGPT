@@ -83,7 +83,7 @@
     // "http_proxy": "http://127.0.0.1:1079",
     // 自定义端口、自定义ip（请替换对应内容）
     // "server_name": "0.0.0.0",
-    // "server_port": 7860,
+    // "server_port": 10000,
     // 如果要share到gradio，设置为true
     // "share": false,
 }
